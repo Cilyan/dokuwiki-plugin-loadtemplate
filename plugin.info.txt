@@ -1,0 +1,7 @@
+base    loadtemplate
+author  Cilyan Olowen
+email   gaknar@gmail.com
+date    2013-11-23
+name    Load Template Plugin
+desc    Load the content of a page from a specific namespace as a template into the currently edited page
+url     http://www.dokuwiki.org/plugin:loadtemplate
