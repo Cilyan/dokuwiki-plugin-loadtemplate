@@ -17,5 +17,4 @@
  * 
  */
 
-$conf['tpll_ns']     = ':wiki:templates';
-//Setup VIM: ex: et ts=2 :
+$meta ['tpll_ns']       = array('string');
