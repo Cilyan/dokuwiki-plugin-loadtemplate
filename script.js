@@ -31,7 +31,7 @@ var dwp_tplwiz = {
                .dialog({
                    autoOpen: false,
                    draggable: true,
-                   title: LANG.tpll_title,
+                   title: LANG.plugins.loadtemplate.tpll_title,
                    resizable: false
                })
                .html(
@@ -237,7 +237,7 @@ var dwp_tplwiz = {
                 dwp_tplwiz.hide();
             }
         ).fail(function () {
-            alert(LANG.tpll_ajaxerror);
+            alert(LANG.plugins.loadtemplate.tpll_ajaxerror);
         });
         
         // reset the entry to the parent namespace
